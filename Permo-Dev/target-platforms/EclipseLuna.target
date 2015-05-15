@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="EclipseLuna" sequenceNumber="14">
+<locations>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.platform.ide" version="4.4.2.M20150204-1700"/>
+<unit id="org.eclipse.jdt.feature.group" version="3.10.1.v20150204-1700"/>
+<repository location="http://download.eclipse.org/eclipse/updates/4.4"/>
+</location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.jgit.feature.group" version="3.4.2.201412180340-r"/>
+<repository location="http://download.eclipse.org/releases/luna"/>
+</location>
+</locations>
+</target>

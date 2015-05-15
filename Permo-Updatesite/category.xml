@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ch.uzh.ifi.seal.permo.feature_1.0.0.qualifier.jar" id="ch.uzh.ifi.seal.permo.feature" version="1.0.0.qualifier">
+      <category name="ch.uzh.ifi.seal.permo.category"/>
+   </feature>
+   <category-def name="ch.uzh.ifi.seal.permo.category" label="Permo IDE Features"/>
+</site>
